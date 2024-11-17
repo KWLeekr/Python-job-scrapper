@@ -1,4 +1,5 @@
-# weworkremotely-Full-time-job-scrapper
+# Python web crawler
+This code demonstrates how to scrape the [We Work Remotely](https://weworkremotely.com/) website using Python. It serves as an example of how to perform web scraping responsibly while adhering to website policies.
 
 ## Important Notice: Web Scraping
 Web scraping requires careful consideration. Unauthorized scraping may result in legal consequences. 
